@@ -1,6 +1,6 @@
 {
-  "name" : "Setwork",
-  "message" : "Hello, have a good day to you!",
-  "network_url" : "hello",
-  "connector_id" : "12345"
+  "name": "Setwork",
+  "message": "Hello, have a good day to you!",
+  "network_url": "https://triangle-intimate-munich-martha.trycloudflare.com",
+  "connector_id": "a30ea5cc-ba91-45cd-9268-42bd7549a29a"
 }
